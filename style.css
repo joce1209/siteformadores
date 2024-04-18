@@ -68,6 +68,8 @@ padding: 24px 0;
  .estudante-todos{
   display: grid;
   grid-auto-columns: 30% 30% 30%;
+  justify-content: center;
+
  }
  .estudante{
   background-color: lightskyblue;
